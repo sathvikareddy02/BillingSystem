@@ -90,7 +90,7 @@ Grand Total:                ₹82.60
 
 ## 🧑‍💻 Author
 
-- **ASathvikaReddy** – Developer & Designer  
+- **SathvikaReddy** – Developer & Designer  
 
 ---
 
